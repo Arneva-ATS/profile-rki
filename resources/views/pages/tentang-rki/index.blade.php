@@ -5,9 +5,10 @@
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-lg-6">
-                <div class="padding-left-auto"><a class="btn btn-tag-black" href="#">About Us</a>
-                    <h2 class="display-2 mt-15 mb-25">This is Who We Are</h2>
-                    <p class="text-xl mb-45">The true secret of our success lies in people behind the screen. And with them, our culture.</p>
+                <div class="padding-left-auto">
+                    <a class="btn btn-tag-black" href="#">Tentang RKI</a>
+                    <h2 class="display-2 mt-15 mb-25 px-2">Rumah Kesejahteraan Indonesia</h2>
+                    <p class="text-xl mb-45 px-2">Didirikan oleh Pimpinan Paripurna Dewan Koperasi Indonesia (DEKOPIN) pada awal tahun 2020. RKI hadir sebagai jawaban atas kebutuhan untuk menjembatani peran DEKOPIN yang sebelumnya hanya sebagai katalisator pasif dalam menjalankan program edukasi, fasilitasi, dan advokasi bagi gerakan koperasi di Indonesia.</p>
                     <div class="box-buttons-feature-4">
                         <a class="btn btn-brand-4-medium mr-20" href="#">Subscribe
                             <svg width="22" height="8" viewbox="0 0 22 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -20,7 +21,7 @@
                                 <svg width="39" height="38" viewbox="0 0 39 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <rect x="0.5" width="38" height="38" rx="19" fill="#191919"></rect>
                                     <g clip-path="url(#clip0_1_376)">
-                                        <path d="M24.1537 16.8139L15.218 25.7497L13.75 24.2817L22.6847 15.3459H14.81V13.2695H26.2301V24.6897H24.1537V16.8139Z" fill="#C5FF55"></path>
+                                        <path d="M24.1537 16.8139L15.218 25.7497L13.75 24.2817L22.6847 15.3459H14.81V13.2695H26.2301V24.6897H24.1537V16.8139Z" fill="#47d2fb"></path>
                                     </g>
                                     <defs>
                                         <clippath id="clip0_1_376">
@@ -34,7 +35,7 @@
                         </a>
                     </div>
                     <div class="box-border-left-author">
-                        <p class="text-22-bold">We facilitate the creation of strategy, design, and implementation</p>
+                        <p class="text-22-bold">Kesejahteraan untuk Semua, Harapan untuk Masa Depan</p>
                         <div class="box-joined">
                             <div class="box-authors">
                                 <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="Nivia"></span>
@@ -42,7 +43,7 @@
                                 <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author3.png') }}" alt="Nivia"></span>
                                 <span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span>
                             </div>
-                            <span class="text-lg d-inline-block">Join thousands of users in using<br class="d-none d-md-block">the Nivia platform!</span>
+                            <span class="text-lg d-inline-block">Bergabunglah dengan RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
                         </div>
                     </div>
                 </div>
@@ -60,14 +61,14 @@
     </div>
 </section>
 
-<section class="section-box box-prepared-section" style="background: rgb(73, 73, 73);">
+<section class="section-box box-prepared-section" style="background: rgb(19 30 58);">
     <div class="container">
         <div class="row align-items-end">
             <div class="col-lg-6 mb-30">
-                <h2 class="heading-2">When you are more prepared, your future will be brighter</h2>
+                <h2 class="heading-2 text-white">RKI berkomitmen untuk memperkuat gerakan koperasi di Indonesia</h2>
             </div>
             <div class="col-lg-6 mb-30">
-                <h6 class="neutral-500">Since 2010 we’ve been working with amazing organisations to create meaningful impact and compelling experiences.</h6>
+                <h6 class="text-white">Dengan pendekatan yang inklusif dan berkelanjutan, RKI berusaha menciptakan ekosistem yang mendukung kesejahteraan anggota koperasi dan masyarakat luas. Melalui kemitraan yang strategis dan program-program yang relevan, RKI siap membawa koperasi Indonesia menuju masa depan yang lebih cerah dan berdaya saing global.</h6>
             </div>
         </div>
         <div class="row mt-45">
@@ -76,8 +77,8 @@
                     <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage3/marketing.svg') }}"></div>
                     <div class="card-info">
                         <a href="#">
-                            <h3 class="text-22-bold">Our philosophy</h3>
-                            <p class="text-lg neutral-500">We also know that with all our wellness initiatives, customer value and service, our doors to the community.</p>
+                            <h3 class="text-22-bold text-white">Visi Kami</h3>
+                            <p class="text-lg text-white">Mewujudkan kesejahteraan berkelanjutan bagi seluruh masyarakat Indonesia melalui penguatan dan pengembangan gerakan koperasi.</p>
                         </a>
                     </div>
                 </div>
@@ -87,8 +88,14 @@
                     <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage3/digital.svg') }}"></div>
                     <div class="card-info">
                         <a href="#">
-                            <h3 class="text-22-bold">Our Mission</h3>
-                            <p class="text-lg neutral-500">Our mission, and our vision, is our mission. We are here to support and encourage individuals in their journey.</p>
+                            <h3 class="text-22-bold text-white">Misi Kami</h3>
+                            <ul>
+                                <li>Melaksanakan program edukasi yang komprehensif untuk meningkatkan pemahaman dan keterampilan anggota koperasi.</li>
+                                <li>Menyediakan fasilitas yang mendukung operasional koperasi dalam berbagai sektor usaha.</li>
+                                <li>Mengadvokasi kepentingan koperasi di tingkat nasional dan internasional untuk menciptakan lingkungan yang kondusif bagi pertumbuhan koperasi.</li>
+                                <li>Mengembangkan kemitraan strategis dengan berbagai pihak untuk memperkuat ekosistem koperasi.</li>
+                            </ul>
+                            <p class="text-lg text-white"></p>
                         </a>
                     </div>
                 </div>
@@ -98,8 +105,8 @@
                     <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage3/product.svg') }}"></div>
                     <div class="card-info">
                         <a href="#">
-                            <h3 class="text-22-bold">Our Identity</h3>
-                            <p class="text-lg neutral-500">Our commitment to our clients is key to our success. We make it a point to meet with our clients to make sure.</p>
+                            <h3 class="text-22-bold text-white">Our Identity</h3>
+                            <p class="text-lg text-white">Our commitment to our clients is key to our success. We make it a point to meet with our clients to make sure.</p>
                         </a>
                     </div>
                 </div>

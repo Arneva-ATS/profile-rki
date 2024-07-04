@@ -2,7 +2,7 @@
     <div class="container">
         <div class="main-header">
             <div class="header-left">
-                <div class="header-logo"><a class="d-flex" href="{{ route('beranda') }}"><img alt="Nivia" src="{{ asset('assets/imgs/rki.png') }}" width="170"></a></div>
+                <div class="header-logo"><a class="d-flex" href="{{ route('beranda') }}"><img alt="Nivia" src="{{ asset('assets/imgs/Logo.png') }}" width="170"></a></div>
 
                 <div class="header-nav">
                     <nav class="nav-main-menu d-none d-xl-block">

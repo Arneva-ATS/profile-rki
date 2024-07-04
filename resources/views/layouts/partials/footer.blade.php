@@ -3,34 +3,88 @@
         <div class="carouselTickerLogos2 carouselTicker_vertical" id="slide-logos2">
             <ul class="carouselTicker__list list-logos">
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo1.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-1.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo2.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-2.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo3.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-3.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo4.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-4.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo5.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-5.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo6.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-6.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo7.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-7.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo8.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-8.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo9.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-9.png') }}" alt="Koperasi"></div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-logo"><img src="{{ asset('assets/imgs/page/homepage3/logo1.png') }}" alt="Nivia"></div>
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-10.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-11.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-12.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-13.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-14.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-15.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-16.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-17.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-18.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-19.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-20.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-21.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-22.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-23.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-24.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-25.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-26.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-27.png') }}" alt="Koperasi"></div>
+                </li>
+                <li class="carouselTicker__item">
+                    <div class="item-logo"><img src="{{ asset('assets/imgs/logo-koperasi/koperasi-28.png') }}" alt="Koperasi"></div>
                 </li>
             </ul>
         </div>
@@ -41,10 +95,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 mb-30">
-                <a href="index.html"><img alt="Nivia" src="{{ asset('assets/imgs/rki.png') }}" width="180"></a>
+                <a href="index.html"><img alt="Koperasi" src="{{ asset('assets/imgs/Logo.png') }}" width="170"></a>
                 <div class="mt-20 mb-20">
-                    <p class="text-md text-light mb-10">4517 Washington Ave. Manchester, Kentucky 39495</p>
-                    <p class="text-md text-light">Hours: 8:00 - 17:00, Mon - Sat </p>
+                    <p class="text-md text-light mb-10"><span class="fw-bold">Wisma NH</span><br> Jl. Raya Pasar Minggu No.2B-C, RT.2/RW.2, Pancoran, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780</p>
+                    <p class="text-md text-light">Jam Kerja: 9:00 - 17:00, Senin - Jum'at </p>
                 </div>
             </div>
 
@@ -96,8 +150,8 @@
         <div class="footer-bottom mt-0">
             <div class="row align-items-end">
                 <div class="col-lg-6 mb-20">
-                    <h5 class="text-18-semibold neutral-0">Join our newsletter</h5>
-                    <p class="text-sm neutral-600 mb-20">No ads. No trails. No commitments</p>
+                    <h5 class="text-18-semibold neutral-0">Langganan halaman kami</h5>
+                    <p class="text-sm neutral-600 mb-20">Bersama RKI, Murni untuk Kesejahteraan Anda.</p>
                     <div class="form-newsletter form-newsletter-2">
                         <form>
                             <input class="form-control" type="text" placeholder="email address">
@@ -115,13 +169,13 @@
                             <div class="text-center text-md-start">
                             <div class="text-start d-inline-block">
                                 <p class="text-lg title-follow neutral-0">Follow us
-                                <div class="box-socials-footer"><a class="icon-socials icon-facebook" href="#"><img alt="Nivia" src="assets/imgs/template/icons/fb.svg"></a><a class="icon-socials icon-instagram" href="#"><img alt="Nivia" src="assets/imgs/template/icons/in.svg"></a><a class="icon-socials icon-twitter" href="#"><img alt="Nivia" src="assets/imgs/template/icons/tw.svg"></a><a class="icon-socials icon-be" href="#"><img alt="Nivia" src="assets/imgs/template/icons/be.svg"></a></div>
+                                <div class="box-socials-footer"><a class="icon-socials icon-facebook" href="#"><img alt="Koperasi" src="assets/imgs/template/icons/fb.svg"></a><a class="icon-socials icon-instagram" href="#"><img alt="Nivia" src="assets/imgs/template/icons/in.svg"></a><a class="icon-socials icon-twitter" href="#"><img alt="Nivia" src="assets/imgs/template/icons/tw.svg"></a><a class="icon-socials icon-be" href="#"><img alt="Nivia" src="assets/imgs/template/icons/be.svg"></a></div>
                                 </p>
                             </div>
                             </div>
                         </div>
                         <div class="col-md-6 mb-20">
-                            <p class="text-sm neutral-600">Copyright &copy; 2023 Nivia. All rights reserved.</p>
+                            <p class="text-sm neutral-600">Copyright &copy; 2024 RKI. All rights reserved.</p>
                         </div>
                     </div>
                 </div>

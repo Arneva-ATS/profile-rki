@@ -451,7 +451,7 @@ a {
 }
 
 .display-2 {
-  font-size: 72px;
+  font-size: 60px;
   line-height: 82px;
   font-family: "Urbanist", sans-serif;
   font-weight: 500;
@@ -1011,7 +1011,7 @@ body {
   text-align: center;
   line-height: 38px;
   margin-right: 10px;
-  background-color: #C5FF41;
+  background-color: #47d2fb;
 }
 .btn.btn-learmore-2 svg {
   fill: #191919;
@@ -1172,18 +1172,18 @@ body {
 .btn.btn-tag-black {
   border-radius: 100px;
   padding: 6px 21px;
-  border: 1px solid #C5FF41;
+  border: 1px solid #47d2fb;
   background: #191919;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
   display: inline-block !important;
-  color: #C5FF41;
+  color: #47d2fb;
 }
 .btn.btn-tag-black:hover {
   color: #191919;
   border-color: #191919;
-  background-color: #C5FF41;
+  background-color: #47d2fb;
 }
 .btn.btn-start-trial {
   background: linear-gradient(236deg, #22D1EE 0%, #C5FF41 100%);
@@ -1311,9 +1311,9 @@ body {
 }
 .btn.btn-brand-4-medium {
   padding: 14px 25px;
-  background-color: #4a74e1;
+  background-color: #ffffff;
   border-radius: 8px;
-  color: #ffffff;
+  color: #131e3a;
   font-size: 18px;
   line-height: 22px;
   font-weight: 600;
@@ -1322,15 +1322,15 @@ body {
   align-items: center;
 }
 .btn.btn-brand-4-medium svg {
-  fill: #ffffff;
+  fill: #131e3a;
   margin-left: 5px;
 }
 .btn.btn-brand-4-medium:hover {
-    background: #ECEEF2;
-    color: #191919;
+    background: #cfd0d3;
+    color: #131e3a;
 }
 .btn.btn-brand-4-medium:hover svg {
-    fill: #191919;
+    fill: #131e3a;
 }
 .btn.btn-brand-4-sm {
   padding: 4px 21px;
@@ -1396,13 +1396,13 @@ body {
   margin-left: 5px;
 }
 .btn.btn-brand-5:hover {
-  background: #C5FF41;
+  background: #f8f8f8;
   color: #191919;
 }
 .btn.btn-brand-5-new {
   padding: 4px 25px 4px 5px;
-  background-color: #3B4725;
-  border: 1px solid #C5FF41;
+  background-color: #ffffff4f;
+  border: 1px solid #ffffff;
   border-radius: 20px;
   color: #ffffff;
   font-size: 16px;
@@ -1421,8 +1421,8 @@ body {
   line-height: 12px;
   font-weight: bold;
   border-radius: 35px;
-  background-color: #C5FF41;
-  color: #191919;
+  background-color: #47d2fb;
+  color: #131e3a;
   margin-right: 10px;
 }
 .btn.btn-brand-5-new svg {
@@ -1430,7 +1430,7 @@ body {
   margin-left: 10px;
 }
 .btn.btn-brand-5-new:hover {
-  background: #C5FF41;
+  background: #f5f5f5;
   color: #191919;
 }
 .btn.btn-brand-6-new {
@@ -1761,7 +1761,7 @@ body {
   line-height: 60px;
 }
 #scrollUp svg {
-  fill: #C5FF41;
+  fill: #47d2fb;
   height: 24px;
   position: relative;
   z-index: 123;
@@ -3184,7 +3184,7 @@ label {
   position: relative;
 }
 .header .main-menu li a:hover {
-  color: #5280ff;
+  color: #47d2fb;
 }
 .header .main-menu li a i {
   font-size: 10px;
@@ -5812,7 +5812,7 @@ a.icon-socials:hover {
 }
 
 .text-linear-3 {
-  background: -webkit-linear-gradient(236deg, #22D1EE 0%, #C5FF41 100%);
+  background: -webkit-linear-gradient(236deg, #B2FEFA 0%, #0ED2F7 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -6802,7 +6802,7 @@ a.icon-socials:hover {
   min-height: auto;
   width: auto;
   max-width: 100%;
-  max-height: 42px;
+  max-height: 70px;
   vertical-align: middle;
 }
 
@@ -6832,13 +6832,13 @@ a.icon-socials:hover {
   color: #191919;
 }
 .card-feature-2 .card-info a:hover {
-  color: #52B8AA;
+  color: #47d2fb;
 }
 .card-feature-2 .card-info h3 {
   margin-bottom: 9px;
 }
 .card-feature-2:hover .card-image {
-  background-color: #C5FF41;
+  background-color: #47d2fb;
 }
 .card-feature-2.card-feature-brand-4 {
   margin-bottom: 50px;
@@ -7388,7 +7388,7 @@ a.icon-socials:hover {
   z-index: 1;
 }
 .hero-5 .banner-image-main .blur-bg {
-  background: url(../imgs/page/homepage1/blur.svg) no-repeat bottom left;
+  /* background: url(../imgs/page/homepage1/blur.svg) no-repeat bottom left; */
   background-size: auto;
   width: 100%;
   height: 100%;
@@ -7433,9 +7433,9 @@ a.icon-socials:hover {
   width: 47px;
   height: 47px;
   display: block;
-  background-color: #C5FF41;
+  background-color: #131e3a;
   line-height: 47px;
-  color: #191919;
+  color: #ffffff;
   text-align: center;
   margin: -1.5px 0px 0px -1.5px;
   border-radius: 50%;
