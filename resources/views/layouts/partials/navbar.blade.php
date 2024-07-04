@@ -17,7 +17,8 @@
                 </div>
             </div>
 
-            <div class="header-right"><a class="btn btn-search hover-up" href="#"></a>
+            <div class="header-right">
+                {{-- <a class="btn btn-search hover-up" href="#"></a> --}}
                 <div class="form-search p-20 dark">
                     <form action="#">
                         <input class="form-control" type="text" placeholder="Search">
@@ -31,7 +32,7 @@
                 <a class="btn text-white hover-up fw-bold d-none d-md-block" href="#">Masuk</a>
 
                 <a class="btn btn-brand-4-medium hover-up" href="#">
-                    Gabung RKI
+                    Gabung Koperasi
                     <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M22 11.0003L18.4791 7.47949V10.3074H0V11.6933H18.4791V14.5213L22 11.0003Z" fill=""></path>
                     </svg>

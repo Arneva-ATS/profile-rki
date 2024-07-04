@@ -151,11 +151,11 @@
             <div class="row align-items-end">
                 <div class="col-lg-6 mb-20">
                     <h5 class="text-18-semibold neutral-0">Langganan halaman kami</h5>
-                    <p class="text-sm neutral-600 mb-20">Bersama RKI, Murni untuk Kesejahteraan Anda.</p>
+                    <p class="text-sm neutral-600 mb-20">Bersama Koperasi RKI, Murni untuk Kesejahteraan Anda.</p>
                     <div class="form-newsletter form-newsletter-2">
                         <form>
                             <input class="form-control" type="text" placeholder="email address">
-                            <button class="btn btn-brand-4-medium">Subscribe
+                            <button class="btn btn-brand-4-medium">Langganan
                                 <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M22 11.0003L18.4791 7.47949V10.3074H0V11.6933H18.4791V14.5213L22 11.0003Z" fill=""></path>
                                 </svg>
@@ -175,7 +175,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 mb-20">
-                            <p class="text-sm neutral-600">Copyright &copy; 2024 RKI. All rights reserved.</p>
+                            <p class="text-sm neutral-600">Copyright &copy; 2024 Koperasi RKI. All rights reserved.</p>
                         </div>
                     </div>
                 </div>

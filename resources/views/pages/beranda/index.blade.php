@@ -12,7 +12,7 @@
             <div class="container">
                 <div class="box-banner-left">
                     <div class="d-flex align-items-center gap-2">
-                        <img alt="Nivia" src="{{ asset('assets/imgs/logo-koperasi-indonesia.png') }}" width="50">
+                        <img alt="Nivia" src="{{ asset('assets/imgs/logo-koperasi-indonesia.png') }}" width="70">
                         <div class="">
                             <a class="btn btn-brand-5-new" href="#"><span>New</span>Koperasi digital 4.0
                             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewbox="0 0 22 22" fill="none">
@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <h1 class="display-2 mb-30 mt-25 neutral-0">Kesejahteraan untuk Semua, Harapan untuk Masa Depan</h1>
-                    <p class="text-lg mb-55" style="color: #dddddd !important;">Rumah Kesejahteraan Indonesia (RKI) berkomitmen membangun kesejahteraan masyarakat dengan prinsip "Dari Rakyat, untuk Rakyat, Menuju Kesejahteraan." Melalui semangat gotong royong, RKI mengembangkan program-program yang meningkatkan kualitas hidup dan kemandirian. RKI percaya bahwa kolaborasi dan partisipasi aktif masyarakat akan mewujudkan kesejahteraan bersama yang berkelanjutan dan inklusif.</p>
+                    <p class="text-lg mb-55" style="color: #dddddd !important;">Rumah Kesejahteraan Indonesia (RKI) berkomitmen membangun kesejahteraan masyarakat dengan prinsip "Dari Rakyat, untuk Rakyat, Menuju Kesejahteraan." Melalui semangat gotong royong, Koperasi RKI mengembangkan program-program yang meningkatkan kualitas hidup dan kemandirian. Koperasi RKI percaya bahwa kolaborasi dan partisipasi aktif masyarakat akan mewujudkan kesejahteraan bersama yang berkelanjutan dan inklusif.</p>
                     <div class="d-flex mb-60"><a class="hover-up mr-5" href="#"><img src="{{ asset('assets/imgs/page/homepage1/googleplay.png') }}" alt="Nivia"></a><a class="hover-up" href="#"><img src="{{ asset('assets/imgs/page/homepage1/appstore.png') }}" alt="Nivia"></a></div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
         <div class="banner-inner-bottom">
             <div class="container">
                 <div class="box-joined">
-                    <div class="box-authors"><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="Nivia"></span><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="Nivia"></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="Nivia"></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Bergabunglah dengan RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
+                    <div class="box-authors"><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="Nivia"></span><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="Nivia"></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="Nivia"></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Bergabunglah dengan Koperasi RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
                 </div>
             </div>
         </div>
@@ -133,7 +133,7 @@
 <section class="section-box wow animate__animated animate__fadeIn box-grow">
     <div class="box-grow-inner">
         <div class="container">
-            <h2 class="display-2">Tetap Terinformasi dan Berdaya <br class="d-none d-lg-block"> dengan&nbsp;<span class="text-background"><span class="text-linear-3">Berita Terbaru</span></span> dari RKI</h2>
+            <h2 class="display-2">Tetap Terinformasi dan Berdaya <br class="d-none d-lg-block"> dengan&nbsp;<span class="text-background"><span class="text-linear-3">Berita Terbaru</span></span> dari Koperasi RKI</h2>
         </div>
         <div class="box-all-group-animate">
             <div class="box-swiper-group-animate">

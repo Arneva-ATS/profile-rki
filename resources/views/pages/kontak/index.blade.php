@@ -29,7 +29,7 @@
 
                                 <div class="card-info">
                                     <h3 class="text-22-bold">Address</h3>
-                                    <p class="text-md neutral-700">4517 Washington Ave. Manchester, Kentucky 39495 58 Howard Street #2 San Francisco, CA 941</p>
+                                    <p class="text-md neutral-700">Jl. Raya Pasar Minggu No.2B-C, RT.2/RW.2, Pancoran, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780</p>
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.2527999867!2d-74.14448761897569!3d40.6976312333577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaywgSG9hIEvhu7M!5e0!3m2!1svi!2s!4v1697559878485!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
 
-                    <p class="text-md neutral-600 text-center">Hours: 8:00 - 17:00, Mon - Sat </p>
+                    <p class="text-md neutral-600 text-center">Jam Kerja: 9:00 - 17:00, Senin - Jum'at </p>
                 </div>
             </div>
 
@@ -114,78 +114,6 @@
                             </button>
                         </div>
                     </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="section-box wow animate__animated animate__fadeIn box-our-team-2">
-    <div class="box-our-team-2-inner">
-        <div class="container">
-            <div class="text-center">
-                <a class="btn btn-brand-4-sm" href="#">Our people</a>
-                <h2 class="mb-20 mt-20">Meet Our Team</h2>
-                <p class="text-md neutral-500">This is our team, a lot of smiling happy people who work hard to<br class="d-none d-lg-block">empower your teams.</p>
-            </div>
-
-            <div class="box-swiper mt-60">
-                <div class="swiper-container swiper-group-4">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="card-team-2">
-                                <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage2/team1.png') }}" alt="Nivia"></div>
-
-                                <div class="card-info"><a href="#">
-                                    <h6>Olivia Williams</h6></a>
-                                    <p class="text-lg neutral-600">Master Trainer</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="card-team-2">
-                                <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage2/team2.png') }}" alt="Nivia"></div>
-
-                                <div class="card-info"><a href="#">
-                                    <h6>Foysal Khan</h6></a>
-                                    <p class="text-lg neutral-600">Master Trainer</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="card-team-2">
-                                <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage2/team3.png') }}" alt="Nivia"></div>
-
-                                <div class="card-info"><a href="#">
-                                    <h6>Ava Smith</h6></a>
-                                    <p class="text-lg neutral-600">Master Trainer</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="card-team-2">
-                                <div class="card-image"><img src="{{ asset('assets/imgs/page/homepage2/team4.png') }}" alt="Nivia"></div>
-
-                                <div class="card-info"><a href="#">
-                                    <h6>Alexander Hall</h6></a>
-                                    <p class="text-lg neutral-600">Master Trainer</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="box-button-slider box-button-slider-team">
-                    <div class="swiper-button-prev swiper-button-prev-testimonials swiper-button-prev-3">
-                        <svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M6.66667 3.33398L2 8.00065M2 8.00065L6.66667 12.6673M2 8.00065H14" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                        </svg>
-                    </div>
-                    <div class="swiper-button-next swiper-button-next-testimonials swiper-button-next-3">
-                        <svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M9.33333 3.33398L14 8.00065M14 8.00065L9.33333 12.6673M14 8.00065H2" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                        </svg>
-                    </div>
                 </div>
             </div>
         </div>
