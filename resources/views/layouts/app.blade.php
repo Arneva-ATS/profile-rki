@@ -9,7 +9,7 @@
     <meta name="description" content="Index page">
     <meta name="keywords" content="index, page">
     <meta name="author" content="">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/imgs/rki_icon.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/imgs/Logo-color.png') }}">
     @include('layouts.partials.head')
     <title>Rumah Kesejahteraan Indonesia</title>
   </head>
