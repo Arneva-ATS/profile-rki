@@ -28,7 +28,7 @@
                         <div class="col-lg-12">
                             <div class="card-news-style-2 card-news-style-3 border border-1 border-dark rounded-3 p-3">
                                 {{-- <div class="card-image">
-                                    <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="Nivia"></a>
+                                    <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="RKI"></a>
                                 </div>
 
                                 <div class="card-info">
@@ -62,7 +62,7 @@
                         {{-- <div class="col-lg-12">
                             <div class="card-news-style-2 card-news-style-3">
                                 <div class="card-image">
-                                    <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="Nivia"></a>
+                                    <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="RKI"></a>
                                 </div>
 
                                 <div class="card-info">
@@ -95,7 +95,7 @@
 
                         <div class="col-lg-6 col-md-6">
                             <div class="card-news-style-2">
-                                <div class="card-image"> <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="Nivia"></a></div>
+                                <div class="card-image"> <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="RKI"></a></div>
                                 <div class="card-info">
                                     <div class="card-meta"> <a class="btn btn-tag-sm" href="blog-post.html">Technology</a><span class="date-post">16 October 2023</span></div>
                                     <div class="card-title"> <a class="link-new" href="blog-post.html">Perfect product images with Generative AI in Nivia platform</a></div>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <div class="card-news-style-2">
-                                <div class="card-image"> <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="Nivia"></a></div>
+                                <div class="card-image"> <a href="blog-post.html"><img src="{{ asset('assets/imgs/page/blog/blog.png') }}" alt="RKI"></a></div>
                                 <div class="card-info">
                                     <div class="card-meta"> <a class="btn btn-tag-sm" href="blog-post.html">Technology</a><span class="date-post">16 October 2023</span></div>
                                     <div class="card-title"> <a class="link-new" href="blog-post.html">Perfect product images with Generative AI in Nivia platform</a></div>
@@ -189,19 +189,19 @@
 
                         <div class="box-socials-commingsoon mt-15">
                             <a class="icon-socials icon-facebook" href="#">
-                                <img alt="Nivia" src="{{ asset('assets/imgs/template/icons/fb.svg') }}">
+                                <img alt="RKI" src="{{ asset('assets/imgs/template/icons/fb.svg') }}">
                             </a>
 
                             <a class="icon-socials icon-instagram" href="#">
-                                <img alt="Nivia" src="{{ asset('assets/imgs/template/icons/in.svg') }}">
+                                <img alt="RKI" src="{{ asset('assets/imgs/template/icons/in.svg') }}">
                             </a>
 
                             <a class="icon-socials icon-twitter" href="#">
-                                <img alt="Nivia" src="{{ asset('assets/imgs/template/icons/tw.svg') }}">
+                                <img alt="RKI" src="{{ asset('assets/imgs/template/icons/tw.svg') }}">
                             </a>
 
                             <a class="icon-socials icon-be" href="#">
-                                <img alt="Nivia" src="{{ asset('assets/imgs/template/icons/be.svg') }}">
+                                <img alt="RKI" src="{{ asset('assets/imgs/template/icons/be.svg') }}">
                             </a>
                         </div>
                     </div>
@@ -217,7 +217,7 @@
                             </li>
                             {{-- <li>
                                 <div class="card-post">
-                                    <div class="card-image"><img alt="Nivia" src="{{ asset('assets/imgs/page/blog/post.png') }}"></div>
+                                    <div class="card-image"><img alt="RKI" src="{{ asset('assets/imgs/page/blog/post.png') }}"></div>
 
                                     <div class="card-info">
                                         <a href="#">
@@ -229,7 +229,7 @@
                             </li>
                             <li>
                                 <div class="card-post">
-                                    <div class="card-image"><img alt="Nivia" src="{{ asset('assets/imgs/page/blog/post2.png') }}"></div>
+                                    <div class="card-image"><img alt="RKI" src="{{ asset('assets/imgs/page/blog/post2.png') }}"></div>
 
                                     <div class="card-info">
                                         <a href="#">
@@ -242,7 +242,7 @@
 
                             <li>
                                 <div class="card-post">
-                                    <div class="card-image"><img alt="Nivia" src="{{ asset('assets/imgs/page/blog/post3.png') }}"></div>
+                                    <div class="card-image"><img alt="RKI" src="{{ asset('assets/imgs/page/blog/post3.png') }}"></div>
 
                                     <div class="card-info">
                                         <a href="#">
@@ -253,7 +253,7 @@
                             </li>
                             <li>
                                 <div class="card-post">
-                                    <div class="card-image"><img alt="Nivia" src="{{ asset('assets/imgs/page/blog/post4.png') }}"></div>
+                                    <div class="card-image"><img alt="RKI" src="{{ asset('assets/imgs/page/blog/post4.png') }}"></div>
 
                                     <div class="card-info">
                                         <a href="#">
@@ -296,7 +296,7 @@
                         </div>
                     </div>
 
-                    {{-- <div class="box-sidebar-normal"><a href="#"><img src="{{ asset('assets/imgs/page/job/ads.png') }}" alt="Nivia"></a></div> --}}
+                    {{-- <div class="box-sidebar-normal"><a href="#"><img src="{{ asset('assets/imgs/page/job/ads.png') }}" alt="RKI"></a></div> --}}
                 </div>
             </div>
         </div>

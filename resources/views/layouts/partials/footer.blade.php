@@ -169,7 +169,7 @@
                             <div class="text-center text-md-start">
                             <div class="text-start d-inline-block">
                                 <p class="text-lg title-follow neutral-0">Follow us
-                                <div class="box-socials-footer"><a class="icon-socials icon-facebook" href="#"><img alt="Koperasi" src="assets/imgs/template/icons/fb.svg"></a><a class="icon-socials icon-instagram" href="#"><img alt="Nivia" src="assets/imgs/template/icons/in.svg"></a><a class="icon-socials icon-twitter" href="#"><img alt="Nivia" src="assets/imgs/template/icons/tw.svg"></a><a class="icon-socials icon-be" href="#"><img alt="Nivia" src="assets/imgs/template/icons/be.svg"></a></div>
+                                <div class="box-socials-footer"><a class="icon-socials icon-facebook" href="#"><img alt="Koperasi" src="assets/imgs/template/icons/fb.svg"></a><a class="icon-socials icon-instagram" href="#"><img alt="RKI" src="assets/imgs/template/icons/in.svg"></a><a class="icon-socials icon-twitter" href="#"><img alt="RKI" src="assets/imgs/template/icons/tw.svg"></a><a class="icon-socials icon-be" href="#"><img alt="RKI" src="assets/imgs/template/icons/be.svg"></a></div>
                                 </p>
                             </div>
                             </div>

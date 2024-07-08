@@ -1080,7 +1080,7 @@ body {
 .btn.btn-border-linear:hover {
   color: #191919;
   border: 1px solid #ffffff;
-  background: linear-gradient(236deg, #22D1EE 0%, #eabb33 100%);
+  background: linear-gradient(236deg, #ffffff 0%, #eabb33 100%);
 }
 .btn.btn-border-linear:hover span {
   background: #ffffff;
@@ -3603,7 +3603,7 @@ label {
   padding-bottom: 0;
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li:hover > a {
-  color: #D280E5;
+  color: #233672;
   padding-left: 3px;
   transition-duration: 0.2s;
 }
@@ -3820,7 +3820,7 @@ label {
 .mobile-account ul li:hover a {
   padding-left: 3px;
   transition-duration: 0.2s;
-  color: #D280E5;
+  color: #233672;
 }
 
 .sidebar-title {
@@ -9571,7 +9571,7 @@ a.icon-socials:hover {
     display: none;
   }
   .burger-icon {
-    top: 0px;
+    top: -10px;
   }
   .box-border-rounded {
     padding: 15px 15px 15px 15px;

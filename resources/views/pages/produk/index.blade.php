@@ -6,16 +6,97 @@
     <div class="container">
       <div class="row align-items-end justify-content-between">
         <div class="col-lg-7 mb-30">
-          <h2 class="display-2 neutral-0">We know how to manage business globally</h2>
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="display-2 neutral-0">We know how to manage business globally</h2>
+                </div>
+            </div>
         </div>
         <div class="col-lg-4 mb-30">
-          <h6 class="neutral-0">Do you have more question about our solution? Just send us a message for help</h6>
+            <div class="row">
+                <div class="col-12">
+                    <h6 class="neutral-0">Do you have more question about our solution? Just send us a message for help</h6>
+                </div>
+                <div class="col-12">
+                    <div class="col-lg-4 mb-30">
+                        <div class="box-button-slider box-button-slider-team justify-content-end">
+                            <div class="swiper-button-prev swiper-button-prev-testimonials swiper-button-prev-3">
+                                <svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.66667 3.33398L2 8.00065M2 8.00065L6.66667 12.6673M2 8.00065H14" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next-testimonials swiper-button-next-3">
+                                <svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9.33333 3.33398L14 8.00065M14 8.00065L9.33333 12.6673M14 8.00065H2" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
       </div>
       <div class="row mt-65">
+        <div class="box-swiper mt-30">
+            <div class="swiper-container swiper-group-3">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Business Solution</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Business Solution2</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      {{-- <div class="row mt-65">
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -37,7 +118,7 @@
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img2.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img2.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,7 +140,7 @@
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img3.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img3.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -81,7 +162,7 @@
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img4.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img4.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -103,7 +184,7 @@
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img5.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img5.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -125,7 +206,7 @@
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="card-we-know">
-            <div class="card-image"> <img src="assets/imgs/page/services/img6.png" alt="Nivia"></div>
+            <div class="card-image"> <img src="assets/imgs/page/services/img6.png" alt="RKI"></div>
             <div class="card-info"> <a class="card-title" href="#">
                 <h4>Business Solution</h4>
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -145,7 +226,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> --}}
     </div>
   </section>
   <section class="section-box wow animate__animated animate__fadeIn box-why-choose-us">
@@ -192,7 +273,7 @@
           </div>
         </div>
         <div class="col-lg-6">
-          <div class="box-image-why"> <img src="assets/imgs/page/services/img-chart.png" alt="Nivia"><img src="assets/imgs/page/services/img-chart2.png" alt="Nivia"></div>
+          <div class="box-image-why"> <img src="assets/imgs/page/services/img-chart.png" alt="RKI"><img src="assets/imgs/page/services/img-chart2.png" alt="RKI"></div>
           <div class="box-info-total-rate">
             <div class="item-rate-total">
               <div class="top-info-between">
@@ -335,7 +416,7 @@
   <section class="section-box wow animate__animated animate__fadeIn box-our-track">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 text-center mb-40"><img src="assets/imgs/page/homepage1/img-track.png" alt="Nivia"></div>
+        <div class="col-lg-6 text-center mb-40"><img src="assets/imgs/page/homepage1/img-track.png" alt="RKI"></div>
         <div class="col-lg-6 mb-40">
           <div class="box-padding-left-50">
             <div class="strate-icon"><span></span> Strategies that work</div>

@@ -6,7 +6,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="padding-left-auto">
-                    <a class="btn btn-tag-black" href="#">Tentang Koperasi RKI</a>
+                    <a class="btn btn-tag-black mt-3 mt-md-0 ms-2 ms-md-0" href="#">Tentang Koperasi RKI</a>
                     <h2 class="display-2 mt-15 mb-25 px-2 fw-bold">Rumah Kesejahteraan Indonesia</h2>
                     <p class="text-xl mb-45 px-2">Didirikan oleh Pimpinan Paripurna Dewan Koperasi Indonesia (DEKOPIN) pada awal tahun 2020. Koperasi RKI hadir sebagai jawaban atas kebutuhan untuk menjembatani peran DEKOPIN yang sebelumnya hanya sebagai katalisator pasif dalam menjalankan program edukasi, fasilitasi, dan advokasi bagi gerakan koperasi di Indonesia.</p>
                     <div class="box-buttons-feature-4">
@@ -38,9 +38,9 @@
                         <p class="text-22-bold">Kesejahteraan untuk Semua, Harapan untuk Masa Depan</p>
                         <div class="box-joined">
                             <div class="box-authors">
-                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="Nivia"></span>
-                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="Nivia"></span>
-                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author3.png') }}" alt="Nivia"></span>
+                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="RKI"></span>
+                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="RKI"></span>
+                                <span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author3.png') }}" alt="RKI"></span>
                                 <span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span>
                             </div>
                             <span class="text-lg d-inline-block">Bergabunglah dengan Koperasi RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
@@ -51,10 +51,10 @@
 
             <div class="col-lg-6">
                 <div class="box-image-rect">
-                    <img src="{{ asset('assets/imgs/page/about/img-about.png') }}" alt="Nivia">
-                    <a class="btn btn-play popup-youtube text-lg" href="https://www.youtube.com/watch?v=SZEflIVnhH8">
+                    <img src="{{ asset('assets/imgs/image-pak-nh.png') }}" alt="RKI">
+                    {{-- <a class="btn btn-play popup-youtube text-lg" href="">
                         <div class="video-play-button"><span></span></div>
-                    </a>
+                    </a> --}}
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
         <div class="row mt-90">
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Program Edukasi dan Pelatihan</h5>
                         <p>Seminar tentang regulasi dan kebijakan koperasi, Workshop kewirausahaan dan inovasi bisnis dan Pelatihan manajemen koperasi</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Fasilitasi Teknologi dan Digitalisasi</h5>
                         <p>Pengembangan platform digital untuk pengelolaan koperasi, Implementasi sistem informasi koperasi berbasis cloud dan Aplikasi mobile untuk anggota koperasi</p>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Akses Pembiayaan dan Investasi</h5>
                         <p>Fasilitasi akses ke investor untuk pengembangan usaha koperasi, Kemitraan dengan lembaga keuangan untuk akses pembiayaan dan Program pinjaman mikro dan kredit usaha rakyat (KUR)</p>
@@ -145,7 +145,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Jaringan Bisnis dan Kemitraan</h5>
                         <p>Membangun jaringan bisnis antar koperasi, Kolaborasi dengan perusahaan nasional dan internasional, dan Pengembangan kemitraan strategis dengan pemerintah dan sektor swasta</p>
@@ -154,7 +154,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Advokasi dan Kebijakan</h5>
                         <p>Advokasi kebijakan yang mendukung perkembangan koperasi, Pendampingan dalam penyusunan regulasi koperasi dan Lobi dan kampanye untuk kepentingan koperasi di tingkat nasional dan internasional</p>
@@ -163,7 +163,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Pengembangan Produk dan Layanan</h5>
                         <p>Inovasi produk dan diversifikasi layanan koperasi, Pengembangan usaha kreatif dan sektor UMKM dan Fasilitasi akses pasar untuk produk koperasi</p>
@@ -172,7 +172,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare2.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Sistem Pendukung Operasional</h5>
                         <p>Penyediaan infrastruktur dan fasilitas operasional, Pengembangan pusat layanan terpadu untuk koperasi dan Sistem monitoring dan evaluasi kinerja koperasi</p>
@@ -181,7 +181,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="card-preparing">
-                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="Nivia"></div>
+                    <div class="card-image"><img class="wow fadeInUp" src="{{ asset('assets/imgs/page/homepage1/img-prepare3.png') }}" alt="RKI"></div>
                     <div class="card-info">
                         <h5>Inkubator Bisnis dan Start-up</h5>
                         <p>Program inkubasi untuk start-up koperasi, Pendampingan bisnis dan mentoring bagi usaha baru dan Akses ke sumber daya dan jaringan bisnis untuk start-up</p>

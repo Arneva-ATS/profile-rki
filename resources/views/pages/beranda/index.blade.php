@@ -12,7 +12,7 @@
             <div class="container">
                 <div class="box-banner-left">
                     <div class="d-flex align-items-center gap-2">
-                        <img alt="Nivia" src="{{ asset('assets/imgs/logo-koperasi-indonesia.png') }}" width="70">
+                        <img alt="RKI" src="{{ asset('assets/imgs/logo-koperasi-indonesia.png') }}" width="70">
                         <div class="">
                             <a class="btn btn-brand-5-new" href="#"><span>New</span>Koperasi digital 4.0
                             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewbox="0 0 22 22" fill="none">
@@ -22,7 +22,7 @@
                     </div>
                     <h1 class="display-2 mb-30 mt-25 neutral-0">Kesejahteraan untuk Semua, Harapan untuk Masa Depan</h1>
                     <p class="text-lg mb-55" style="color: #dddddd !important;">Rumah Kesejahteraan Indonesia (RKI) berkomitmen membangun kesejahteraan masyarakat dengan prinsip "Dari Rakyat, untuk Rakyat, Menuju Kesejahteraan." Melalui semangat gotong royong, Koperasi RKI mengembangkan program-program yang meningkatkan kualitas hidup dan kemandirian. Koperasi RKI percaya bahwa kolaborasi dan partisipasi aktif masyarakat akan mewujudkan kesejahteraan bersama yang berkelanjutan dan inklusif.</p>
-                    <div class="d-flex mb-60"><a class="hover-up mr-5" href="#"><img src="{{ asset('assets/imgs/page/homepage1/googleplay.png') }}" alt="Nivia"></a><a class="hover-up" href="#"><img src="{{ asset('assets/imgs/page/homepage1/appstore.png') }}" alt="Nivia"></a></div>
+                    <div class="d-flex mb-60"><a class="hover-up mr-5" href="#"><img src="{{ asset('assets/imgs/page/homepage1/googleplay.png') }}" alt="RKI"></a><a class="hover-up" href="#"><img src="{{ asset('assets/imgs/page/homepage1/appstore.png') }}" alt="RKI"></a></div>
                 </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
         <div class="banner-inner-bottom">
             <div class="container">
                 <div class="box-joined">
-                    <div class="box-authors"><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="Nivia"></span><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="Nivia"></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="Nivia"></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Bergabunglah dengan Koperasi RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
+                    <div class="box-authors"><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author.png') }}" alt="RKI"></span><span class="item-author"><img src="{{ asset('assets/imgs/page/homepage1/author2.png') }}" alt="RKI"></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="RKI"></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Bergabunglah dengan Koperasi RKI<br class="d-none d-md-block">bersama wujudkan kesejahteraan!</span>
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@
             <div class="carouselTicker7 carouselTicker_vertical" id="slide-grow-1">
                 <ul class="carouselTicker__list">
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_26_429)">
@@ -162,7 +162,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_26_374)">
@@ -178,7 +178,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M19.9556 8.13979C19.7681 7.88537 19.6149 7.60735 19.5 7.31292C19.4173 6.99269 19.377 6.66301 19.38 6.3323C19.3575 5.7548 19.335 5.15667 18.9862 4.67667C18.6375 4.19667 18.0694 3.9848 17.5238 3.78417C17.209 3.68777 16.9083 3.55034 16.6294 3.37542C16.3816 3.1689 16.1622 2.9306 15.9769 2.66667C15.6337 2.22792 15.2437 1.72917 14.6644 1.54167C14.085 1.35417 13.5394 1.52292 12.9769 1.67855C12.6612 1.78634 12.3328 1.85253 12 1.87542C11.6638 1.85653 11.3316 1.79349 11.0119 1.68792C10.4587 1.5323 9.88687 1.37105 9.33375 1.55105C8.78062 1.73105 8.36625 2.2373 8.02125 2.67605C7.83581 2.93655 7.61708 3.17167 7.37063 3.37542C7.09408 3.54974 6.79593 3.68716 6.48375 3.78417C5.93813 3.9848 5.37563 4.19105 5.02125 4.67667C4.66688 5.1623 4.64625 5.7548 4.6275 6.3323C4.62808 6.66334 4.58522 6.99303 4.5 7.31292C4.38244 7.60644 4.22673 7.8832 4.03688 8.13604C3.73125 8.60479 3.375 9.13167 3.375 9.75042C3.375 10.3692 3.73125 10.896 4.04437 11.361C4.23189 11.6155 4.38508 11.8935 4.5 12.1879C4.58269 12.5081 4.62303 12.8378 4.62 13.1685C4.6425 13.746 4.665 14.3442 5.01375 14.8242C5.3625 15.3042 5.93063 15.516 6.47625 15.7167L6.7425 15.816V22.1254C6.74255 22.1873 6.75792 22.2482 6.78724 22.3027C6.81656 22.3573 6.85891 22.4037 6.91053 22.4378C6.96214 22.472 7.02141 22.4928 7.08304 22.4985C7.14467 22.5042 7.20676 22.4946 7.26375 22.4704L12 20.4773L16.7288 22.4704C16.775 22.4901 16.8247 22.5003 16.875 22.5004C16.9745 22.5004 17.0698 22.4609 17.1402 22.3906C17.2105 22.3203 17.25 22.2249 17.25 22.1254V15.8123L17.5162 15.7129C18.0619 15.5123 18.6244 15.306 18.9788 14.8204C19.3331 14.3348 19.3538 13.7423 19.3725 13.1648C19.3722 12.835 19.4151 12.5066 19.5 12.1879C19.6176 11.8944 19.7733 11.6176 19.9631 11.3648C20.2688 10.896 20.625 10.3692 20.625 9.75042C20.625 9.13167 20.2687 8.60479 19.9556 8.13979ZM12.1462 19.7235C12.1 19.7039 12.0502 19.6938 12 19.6938C11.9498 19.6938 11.9 19.7039 11.8538 19.7235L7.5 21.5629V16.2304C7.68998 16.4163 7.86491 16.6169 8.02313 16.8304C8.36625 17.2692 8.75625 17.7679 9.33563 17.9554C9.50603 18.0092 9.68383 18.0357 9.8625 18.0342C10.2539 18.0128 10.6405 17.9384 11.0119 17.8129C11.3316 17.7073 11.6638 17.6443 12 17.6254C12.3362 17.6443 12.6684 17.7073 12.9881 17.8129C13.5506 17.9685 14.1131 18.1298 14.6756 17.9498C15.2381 17.7698 15.6431 17.2635 15.9881 16.8248C16.143 16.6136 16.3141 16.4149 16.5 16.2304V21.5629L12.1462 19.7235ZM19.3331 10.9429C19.0998 11.2522 18.9105 11.5923 18.7706 11.9535C18.6659 12.3385 18.6141 12.7359 18.6169 13.1348C18.5981 13.6223 18.5794 14.0835 18.3638 14.3798C18.1481 14.676 17.7188 14.8392 17.25 15.0004C16.8716 15.1202 16.5114 15.2911 16.1794 15.5085C15.8742 15.7544 15.6048 16.0416 15.3787 16.3617C15.075 16.7498 14.7863 17.1117 14.4263 17.2354C14.0663 17.3592 13.65 17.2204 13.185 17.0892C12.8015 16.9646 12.4029 16.8927 12 16.8754C11.5943 16.8944 11.193 16.9689 10.8075 17.0967C10.3425 17.2279 9.90375 17.3517 9.56625 17.2429C9.22875 17.1342 8.9175 16.7573 8.61375 16.3673C8.38719 16.0482 8.11779 15.7617 7.81312 15.516C7.48384 15.2966 7.12617 15.1232 6.75 15.0004C6.29063 14.8317 5.85375 14.6723 5.63625 14.3723C5.41875 14.0723 5.40187 13.6223 5.38312 13.1273C5.38586 12.7284 5.33413 12.331 5.22937 11.946C5.08947 11.5848 4.90017 11.2447 4.66687 10.9354C4.3875 10.5304 4.125 10.1404 4.125 9.75042C4.125 9.36042 4.3875 8.97042 4.66687 8.55792C4.90017 8.24865 5.08947 7.90854 5.22937 7.5473C5.33413 7.16237 5.38586 6.76496 5.38312 6.36605C5.40187 5.87855 5.42062 5.4173 5.63625 5.12105C5.85187 4.8248 6.28125 4.66167 6.75 4.50042C7.12838 4.38066 7.48859 4.2097 7.82062 3.9923C8.12576 3.74641 8.39522 3.45929 8.62125 3.13917C8.925 2.75105 9.21375 2.38917 9.57375 2.26542C9.66923 2.23691 9.76848 2.223 9.86812 2.22417C10.1873 2.24642 10.5024 2.30943 10.8056 2.41167C11.1921 2.5371 11.594 2.60902 12 2.62542C12.4057 2.60642 12.807 2.53198 13.1925 2.40417C13.6575 2.27292 14.0963 2.14917 14.4338 2.25792C14.7713 2.36667 15.0825 2.74355 15.3862 3.13355C15.6128 3.45268 15.8822 3.73912 16.1869 3.9848C16.5162 4.2042 16.8738 4.37768 17.25 4.50042C17.7094 4.66917 18.1463 4.82855 18.3638 5.12855C18.5813 5.42855 18.5981 5.87855 18.6169 6.37355C18.6141 6.77246 18.6659 7.16988 18.7706 7.5548C18.9105 7.91604 19.0998 8.25615 19.3331 8.56542C19.6125 8.97042 19.875 9.36042 19.875 9.75042C19.875 10.1404 19.6125 10.5304 19.3331 10.9429Z" fill=""></path>
@@ -187,7 +187,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_26_429)">
@@ -213,7 +213,7 @@
             <div class="carouselTicker8 carouselTicker_vertical" id="slide-grow-2">
                 <ul class="carouselTicker__list">
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_26_429)">
@@ -235,7 +235,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow3.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow3.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M21.9375 12.7983L17.0625 9.98579C17.0055 9.95287 16.9408 9.93555 16.875 9.93555C16.8092 9.93555 16.7445 9.95287 16.6875 9.98579L11.8125 12.7983C11.7553 12.8313 11.7078 12.8789 11.6749 12.9362C11.6419 12.9935 11.6247 13.0585 11.625 13.1245V18.7495C11.6251 18.8153 11.6424 18.8799 11.6753 18.9368C11.7082 18.9938 11.7556 19.041 11.8125 19.0739L16.6875 21.8864C16.7445 21.9193 16.8092 21.9367 16.875 21.9367C16.9408 21.9367 17.0055 21.9193 17.0625 21.8864L21.9375 19.0739C21.9945 19.041 22.0418 18.9938 22.0747 18.9368C22.1076 18.8799 22.1249 18.8153 22.125 18.7495V13.1245C22.1253 13.0585 22.1081 12.9935 22.0751 12.9362C22.0422 12.8789 21.9947 12.8313 21.9375 12.7983ZM16.875 10.7358L21.0863 13.1733L16.875 15.5058L12.75 13.1245L16.875 10.7358ZM12.375 13.7733L16.5 16.1527V20.917L12.375 18.5358V13.7733ZM17.25 20.917V16.1583L21.375 13.8745V18.5339L17.25 20.917Z" fill=""></path>
@@ -245,7 +245,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow4.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow4.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M20.8125 7.46087H20.25V4.25462C20.2501 3.9721 20.1696 3.6954 20.0179 3.45709C19.8662 3.21877 19.6495 3.02875 19.3935 2.90939C19.1374 2.79002 18.8526 2.74628 18.5725 2.7833C18.2924 2.82032 18.0287 2.93657 17.8125 3.11837C16.1705 4.4942 14.0971 5.24884 11.955 5.25024H6.74996C5.52011 5.2473 4.3346 5.7093 3.43105 6.54364C2.5275 7.37798 1.97268 8.52299 1.87782 9.74918C1.78295 10.9754 2.15503 12.1921 2.9195 13.1555C3.68396 14.1189 4.78429 14.7577 5.99996 14.944C6.04871 17.6234 6.70683 20.314 7.1062 21.709C7.17395 21.9381 7.3142 22.1391 7.50589 22.2818C7.69758 22.4245 7.93038 22.5011 8.16933 22.5002C8.27871 22.5009 8.38752 22.4844 8.49183 22.4515L10.2975 21.9021C10.5624 21.8218 10.8074 21.6866 11.0166 21.5053C11.2258 21.324 11.3945 21.1007 11.5116 20.8498C11.6287 20.599 11.6916 20.3263 11.6963 20.0495C11.701 19.7727 11.6473 19.498 11.5387 19.2434L11.325 18.7502C11.0156 18.0396 10.7793 17.4921 10.71 17.0965L11.2293 16.8359C11.3075 16.7957 11.369 16.7295 11.4033 16.6486C11.4375 16.5677 11.4423 16.4774 11.4168 16.3934L11.0043 15.0002H11.9418C14.0724 15.0017 16.1354 15.7486 17.7731 17.1115L17.8162 17.1471C18.0327 17.3291 18.2967 17.4454 18.5772 17.4823C18.8576 17.5192 19.1427 17.4751 19.3989 17.3553C19.6551 17.2355 19.8717 17.0449 20.0232 16.806C20.1746 16.5672 20.2546 16.29 20.2537 16.0071V12.7109H20.8162C21.2638 12.7109 21.693 12.5331 22.0094 12.2166C22.3259 11.9001 22.5037 11.4709 22.5037 11.0234V9.14837C22.5037 8.92645 22.4599 8.7067 22.3749 8.50172C22.2899 8.29674 22.1652 8.11055 22.0081 7.9538C21.851 7.79705 21.6646 7.67283 21.4594 7.58824C21.2542 7.50366 21.0344 7.46038 20.8125 7.46087ZM2.62495 10.1252C2.62495 9.03123 3.05955 7.98202 3.83314 7.20843C4.60673 6.43484 5.65594 6.00024 6.74996 6.00024H7.49996V14.239C7.49996 14.239 7.49996 14.239 7.49996 14.2502H6.74996C5.65594 14.2502 4.60673 13.8156 3.83314 13.0421C3.05955 12.2685 2.62495 11.2193 2.62495 10.1252ZM10.6125 16.3127L10.1456 16.5471C10.0842 16.5776 10.0324 16.6243 9.9957 16.6821C9.95901 16.74 9.93887 16.8068 9.93746 16.8752C9.93746 17.4377 10.215 18.0752 10.635 19.0484C10.7043 19.204 10.7756 19.3709 10.8487 19.5434C10.9173 19.7008 10.9514 19.8711 10.9488 20.0428C10.9462 20.2145 10.907 20.3837 10.8337 20.539C10.7611 20.6942 10.6569 20.8326 10.5277 20.9453C10.3986 21.058 10.2474 21.1425 10.0837 21.1934L8.27433 21.7502C8.22942 21.7639 8.18224 21.7684 8.13556 21.7636C8.08887 21.7588 8.04362 21.7447 8.00245 21.7221C7.96155 21.6999 7.92554 21.6697 7.89654 21.6333C7.86755 21.5969 7.84618 21.5551 7.8337 21.5102C7.52245 20.4152 6.81933 17.6777 6.74996 15.0002H10.2206L10.6125 16.3127ZM19.5 16.0071C19.5 16.1466 19.4603 16.2833 19.3854 16.401C19.3105 16.5187 19.2036 16.6126 19.0772 16.6717C18.9508 16.7307 18.8102 16.7525 18.6718 16.7344C18.5335 16.7164 18.4032 16.6592 18.2962 16.5696L18.2531 16.534C16.4804 15.0594 14.2477 14.2515 11.9418 14.2502H8.24996C8.24996 14.2502 8.24996 14.2502 8.24996 14.239V6.00024H11.955C14.2735 5.99873 16.5176 5.18166 18.2943 3.69212C18.4013 3.60198 18.5318 3.54431 18.6704 3.52591C18.809 3.50751 18.9501 3.52916 19.0768 3.58829C19.2035 3.64743 19.3107 3.74158 19.3857 3.85965C19.4607 3.97771 19.5003 4.11476 19.5 4.25462V16.0071ZM21.75 11.0215C21.75 11.2701 21.6512 11.5086 21.4754 11.6844C21.2996 11.8602 21.0611 11.959 20.8125 11.959H20.25V8.20899H20.8125C21.0611 8.20899 21.2996 8.30777 21.4754 8.48358C21.6512 8.6594 21.75 8.89785 21.75 9.14649V11.0215Z" fill=""></path>
@@ -253,7 +253,7 @@
                     </div>
                 </li>
                 <li class="carouselTicker__item">
-                    <div class="item-grow"><a href="#"><img alt="Nivia" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
+                    <div class="item-grow"><a href="#"><img alt="RKI" src="{{ asset('assets/imgs/page/homepage6/grow2.png') }}"></a>
                     <div class="button-view-more"><a class="btn btn-border-linear" href="#"><span>
                             <svg width="24" height="24" viewbox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_26_429)">
@@ -298,24 +298,24 @@
         <div class="left-app">
           <div class="info-app">
             <h2 class="display-2 mb-65 text-dark">Aplikasi untuk Semua Kebutuhan Anda</h2>
-            <div class="box-download-app"><a href="#"><img src="{{ asset('assets/imgs/page/homepage6/googleplay.png') }}" alt="Nivia"></a><a href="#"><img src="{{ asset('assets/imgs/page/homepage6/appstore.png') }}" alt="Nivia"></a></div>
+            <div class="box-download-app"><a href="#"><img src="{{ asset('assets/imgs/page/homepage6/googleplay.png') }}" alt="RKI"></a><a href="#"><img src="{{ asset('assets/imgs/page/homepage6/appstore.png') }}" alt="RKI"></a></div>
           </div>
         </div>
         <div class="right-app">
           <div class="slide-app-1">
             <div class="carouselTicker carouselTicker_vertical" id="slide-top">
               <ul class="carouselTicker__list">
-                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-1.png') }}" alt="Nivia"></li>
-                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-2.png') }}" alt="Nivia"></li>
+                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-1.png') }}" alt="RKI"></li>
+                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-2.png') }}" alt="RKI"></li>
               </ul>
             </div>
           </div>
           <div class="slide-app-2">
             <div class="carouselTicker2 carouselTicker_vertical" id="slide-bottom">
               <ul class="carouselTicker__list">
-                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-3.png') }}" alt="Nivia"></li>
-                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-4.png') }}" alt="Nivia"></li>
-                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-4.png') }}" alt="Nivia"></li>
+                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-3.png') }}" alt="RKI"></li>
+                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-4.png') }}" alt="RKI"></li>
+                <li class="carouselTicker__item"><img src="{{ asset('assets/imgs/page/homepage6/app-4.png') }}" alt="RKI"></li>
               </ul>
             </div>
           </div>

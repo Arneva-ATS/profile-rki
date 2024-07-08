@@ -30,7 +30,8 @@ Route::get('/kontak', function () {
 })->name('kontak');
 
 Route::get('/produk', function () {
-    return view('pages.produk.index');
+    // return view('pages.produk.index');
+    abort(404);
 })->name('produk');
 
 // Route::prefix('tentang-kami')->name('tentang-kami.')->group(function () {
