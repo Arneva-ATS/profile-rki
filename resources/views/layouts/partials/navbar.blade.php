@@ -1,9 +1,8 @@
-<header class="header sticky-bar {{ request()->routeIs(['tentang-rki', 'berita', 'kontak']) ? 'header-style-2 header-style-4' : '' }}">
+<header class="header sticky-bar {{ (request()->routeIs(['tentang-rki', 'berita', 'kontak']) || isset($exception)) ? 'header-style-2 header-style-4' : '' }}">
     <div class="container">
         <div class="main-header">
             <div class="header-left">
                 <div class="header-logo"><a class="d-flex" href="{{ route('beranda') }}"><img alt="" src="{{ asset('assets/imgs/Logo.png') }}" width="160"></a></div>
-
                 <div class="header-nav">
                     <nav class="nav-main-menu d-none d-xl-block">
                         <ul class="main-menu">
@@ -29,9 +28,9 @@
                     </div>
                 </div>
 
-                <a class="btn text-white hover-up fw-bold d-none d-md-block" href="#">Masuk</a>
+                <a class="btn text-white hover-up fw-bold d-none d-md-block" href="https://dashboard.rkicoop.co.id/login" target="_blank">Masuk</a>
 
-                <a class="btn btn-brand-4-medium hover-up" href="#">
+                <a class="btn btn-brand-4-medium hover-up" href="#!" data-bs-toggle="modal" data-bs-target="#standardModal">
                     Gabung Koperasi
                     <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M22 11.0003L18.4791 7.47949V10.3074H0V11.6933H18.4791V14.5213L22 11.0003Z" fill=""></path>

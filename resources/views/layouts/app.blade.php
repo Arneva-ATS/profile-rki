@@ -27,7 +27,56 @@
       @yield('content')
     </main>
 
+
     @include('layouts.partials.footer')
+
+    <div class="modal fade modal-notification" id="standardModal" tabindex="-1" aria-labelledby="standardModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="standardModalLabel">Choose an Option</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="row">
+                        <!-- Card for Inkop -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Inkop</h5>
+                                    <p class="card-text">Description for Inkop.</p>
+                                    <a href="#" class="btn btn-primary">Select</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card for Puskop -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Puskop</h5>
+                                    <p class="card-text">Description for Puskop.</p>
+                                    <a href="#" class="btn btn-primary">Select</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card for Primkop -->
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Primkop</h5>
+                                    <p class="card-text">Description for Primkop.</p>
+                                    <a href="#" class="btn btn-primary">Select</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer justify-content-between">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     @include('layouts.partials.foot')
   </body>

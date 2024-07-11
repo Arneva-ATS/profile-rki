@@ -2648,10 +2648,10 @@ label {
   fill: #191919;
 }
 .card-we-know .card-info .card-title:hover {
-  color: #52B8AA;
+  color: #000000;
 }
 .card-we-know .card-info .card-title:hover svg {
-  fill: #52B8AA;
+  fill: #000000;
 }
 .card-we-know .card-info .card-desc {
   border-top: 1px solid #191919;

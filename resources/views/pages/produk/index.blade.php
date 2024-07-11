@@ -46,11 +46,11 @@
                                 <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
                                 <div class="card-info">
                                     <a class="card-title" href="#">
-                                        <h4>Business Solution</h4>
+                                        <h4>Perikanan</h4>
                                         <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <rect width="38" height="38" rx="19" fill=""></rect>
                                             <g clip-path="url(#clip0_517_2603)">
-                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                                             </g>
                                             <defs>
                                                 <clippath id="clip0_517_2603">
@@ -70,11 +70,111 @@
                                 <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
                                 <div class="card-info">
                                     <a class="card-title" href="#">
-                                        <h4>Business Solution2</h4>
+                                        <h4>Perkebunan</h4>
                                         <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <rect width="38" height="38" rx="19" fill=""></rect>
                                             <g clip-path="url(#clip0_517_2603)">
-                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Pertambangan</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Perminyakan</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Peternakan</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
+                                            </g>
+                                            <defs>
+                                                <clippath id="clip0_517_2603">
+                                                <rect width="13" height="13" fill="white" transform="translate(13 13)"></rect>
+                                                </clippath>
+                                            </defs>
+                                        </svg>
+                                    </a>
+                                    <div class="card-desc">
+                                        <p class="text-md">Purus dui eget sollicitudin curae leo proin platea cras, morbi torquent massa</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-6">
+                            <div class="card-we-know">
+                                <div class="card-image"> <img src="assets/imgs/page/services/img.png" alt="RKI"></div>
+                                <div class="card-info">
+                                    <a class="card-title" href="#">
+                                        <h4>Pertanian</h4>
+                                        <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="38" height="38" rx="19" fill=""></rect>
+                                            <g clip-path="url(#clip0_517_2603)">
+                                                <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                                             </g>
                                             <defs>
                                                 <clippath id="clip0_517_2603">
@@ -102,7 +202,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -124,7 +224,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -146,7 +246,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -168,7 +268,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -190,7 +290,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -212,7 +312,7 @@
                 <svg width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="38" height="38" rx="19" fill=""></rect>
                   <g clip-path="url(#clip0_517_2603)">
-                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#C5FF55"></path>
+                    <path d="M23.6537 16.8149L14.718 25.7506L13.25 24.2826L22.1847 15.3469H14.31V13.2705H25.7301V24.6906H23.6537V16.8149Z" fill="#eabb33"></path>
                   </g>
                   <defs>
                     <clippath id="clip0_517_2603">
@@ -310,7 +410,7 @@
       </div>
     </div>
   </section>
-  <section class="section-box wow animate__animated animate__fadeIn box-preparing-3">
+  {{-- <section class="section-box wow animate__animated animate__fadeIn box-preparing-3">
     <div class="container">
       <div class="text-center">
         <h2 class="neutral-0 mb-20">Preparing For Your Success,<br class="d-none d-lg-block">We Provide Truly Prominent IT Solutions</h2>
@@ -412,7 +512,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> --}}
   <section class="section-box wow animate__animated animate__fadeIn box-our-track">
     <div class="container">
       <div class="row align-items-center">
@@ -495,7 +595,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -508,7 +608,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -521,7 +621,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -534,7 +634,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -570,7 +670,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -583,7 +683,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -596,7 +696,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -609,7 +709,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -645,7 +745,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -658,7 +758,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -671,7 +771,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
@@ -684,7 +784,7 @@
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 26 26" fill="none">
                       <g clip-path="url(#clip0_51_57)">
-                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#C5FF55"></path>
+                        <path d="M13 26C20.1799 26 26 20.1799 26 13C26 5.8201 20.1799 0 13 0C5.8201 0 0 5.8201 0 13C0 20.1799 5.8201 26 13 26Z" fill="#eabb33"></path>
                         <path d="M7.11719 13.8396L10.479 17.2014L18.8835 8.79688" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                       </g>
                       <defs>
