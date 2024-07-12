@@ -3818,9 +3818,14 @@ label {
   transition-duration: 0.2s;
 }
 .mobile-account ul li:hover a {
-  padding-left: 3px;
+  /* padding-left: 3px; */
   transition-duration: 0.2s;
   color: #233672;
+}
+
+.mobile-account ul li:hover .btn-gabung {
+  transition-duration: 0.2s;
+  color: #ffffff;
 }
 
 .sidebar-title {

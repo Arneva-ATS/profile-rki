@@ -30,11 +30,9 @@
                     </nav>
                 </div>
                 <div class="mobile-account">
-                    <h6 class="mb-10">Your Account</h6>
                     <ul class="mobile-menu font-heading">
-                    <li><a href="#">Profile</a></li>
-                    <li><a href="#">Account Settings</a></li>
-                    <li><a href="#!">Sign Out</a></li>
+                        <li><a href="https://dashboard.rkicoop.co.id/login" target="_blank" class="btn btn-primary text-white w-100">Masuk</a></li>
+                        <li><a href="#!" data-bs-toggle="modal" data-bs-target="#standardModal" class="btn btn-gabung btn-outline-primary w-100">Gabung Koperasi</a></li>
                     </ul>
                 </div>
                 <div class="mobile-social-icon mb-50">
