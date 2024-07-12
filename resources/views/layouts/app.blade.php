@@ -34,45 +34,58 @@
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="standardModalLabel">Choose an Option</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body text-center">
-                    <div class="row">
-                        <!-- Card for Inkop -->
-                        <div class="col-md-4">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Inkop</h5>
-                                    <p class="card-text">Description for Inkop.</p>
-                                    <a href="#" class="btn btn-primary">Select</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Card for Puskop -->
-                        <div class="col-md-4">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Puskop</h5>
-                                    <p class="card-text">Description for Puskop.</p>
-                                    <a href="#" class="btn btn-primary">Select</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Card for Primkop -->
-                        <div class="col-md-4">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Primkop</h5>
-                                    <p class="card-text">Description for Primkop.</p>
-                                    <a href="#" class="btn btn-primary">Select</a>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="d-flex align-items-center gap-3">
+                        <img alt="RKI" src="{{ asset('assets/imgs/logo-koperasi-indonesia.png') }}" width="50">
+                        <h5 class="modal-title" id="standardModalLabel">Pengajuan Gabung Koperasi</h5>
                     </div>
+                    <button type="button" class="btn-close btn-close-white me-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="koperasiForm">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="namaKoperasi" class="form-label">Nama Koperasi</label>
+                                    <input type="text" class="form-control" id="namaKoperasi" placeholder="Masukkan Nama Koperasi">
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="emailKoperasi" class="form-label">Email Koperasi</label>
+                                    <input type="email" class="form-control" id="emailKoperasi" placeholder="Masukkan Email Koperasi">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="namaKetua" class="form-label">Nama Ketua</label>
+                                    <input type="text" class="form-control" id="namaKetua" placeholder="Masukkan Nama Ketua">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="nomerKetua" class="form-label">Nomer Ketua</label>
+                                    <input type="text" class="form-control" id="nomerKetua" placeholder="Masukkan Nomer Ketua">
+                                    {{-- <div class="form-text text-danger">*Format: 0812xxxxxxx, panjang 10-13 digit.</div> --}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="tingkatanKoperasi" class="form-label">Tingkatan Koperasi</label>
+                            <select class="form-select p-2" id="tingkatanKoperasi">
+                                <option value="INKOP">INKOP</option>
+                                <option value="PUSKOP">PUSKOP</option>
+                                <option value="PRIMKOP">PRIMKOP</option>
+                            </select>
+                        </div>
+                    </form>
                 </div>
                 <div class="modal-footer justify-content-between">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-danger rounded-3" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary rounded-3" id="submitBtn">Submit</button>
                 </div>
             </div>
         </div>

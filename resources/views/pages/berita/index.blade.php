@@ -7,10 +7,10 @@
             <span class="icon-1 shape-1"></span>
             <span class="icon-2 shape-2"></span>
             <span class="icon-3 shape-3"></span>
-            <span class="btn btn-brand-4-sm">Our Inside</span>
+            <span class="btn btn-brand-4-sm">Berita RKI</span>
 
             <h2 class="heading-2 mb-20 mt-15">Berita & Informasi</h2>
-            <p class="text-lg">Explore our blog and resources for valuable insights, expert opinions, and up-to-<br class="d-none d-lg-block">date information on the latest trends in the industry.</p>
+            <p class="text-lg">Jelajahi Berita RKI untuk mendapatkan wawasan berharga, pendapat ahli, dan informasi terkini<br class="d-none d-lg-block"> tentang tren terbaru dalam dunia koperasi dan kesejahteraan.</p>
 
             <div class="box-button-preparing box-button-filters">
                 {{-- <a class="btn btn-neutral-100 active" href="#" data-filter="all">Belum tersedia</a> --}}
