@@ -32,7 +32,7 @@
 
                                     <div class="text-md neutral-700">
                                         <div class="row">
-                                            <div class="col-sm-6"><a href="tel:+1(800)9684021">0819 0203 0707</a></div>
+                                            <div class="col-sm-6"><a href="tel:081902030707">(+62)819 0203 0707</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -93,7 +93,6 @@
                         <div class="form-group">
                             <label for="fullname">
                             Pesan *</label>
-                            <textarea class="form-control" rows="7" placeholder="Apa yang bisa kami bantu?"></textarea>
                         </div>
                         <div class="form-group">
                             <button class="btn btn-black btn-rounded" type="submit">Kirim Pesan

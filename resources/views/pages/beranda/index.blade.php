@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <h1 class="display-2 mb-30 mt-25 neutral-0">Kesejahteraan untuk Semua, Harapan untuk Masa Depan</h1>
-                    <p class="text-lg mb-55" style="color: #dddddd !important;">Rumah Kesejahteraan Indonesia (RKI) berkomitmen membangun kesejahteraan masyarakat dengan prinsip "Dari Rakyat, untuk Rakyat, Menuju Kesejahteraan." Melalui semangat gotong royong, Koperasi RKI mengembangkan program-program yang meningkatkan kualitas hidup dan kemandirian. Koperasi RKI percaya bahwa kolaborasi dan partisipasi aktif masyarakat akan mewujudkan kesejahteraan bersama yang berkelanjutan dan inklusif.</p>
+                    <p class="text-lg mb-55" style="color: #dddddd !important;">Koperasi Rumah Kesejahteraan Indonesia (RKI) berkomitmen membangun kesejahteraan masyarakat dengan prinsip "Dari Rakyat, untuk Rakyat, Menuju Kesejahteraan." Melalui semangat gotong royong, Koperasi RKI mengembangkan program-program yang meningkatkan kualitas hidup dan kemandirian. Koperasi RKI percaya bahwa kolaborasi dan partisipasi aktif masyarakat akan mewujudkan kesejahteraan bersama yang berkelanjutan dan inklusif.</p>
                     <div class="d-flex mb-60"><a class="hover-up mr-5" href="#"><img src="{{ asset('assets/imgs/page/homepage1/googleplay.png') }}" alt="RKI"></a><a class="hover-up" href="#"><img src="{{ asset('assets/imgs/page/homepage1/appstore.png') }}" alt="RKI"></a></div>
                 </div>
             </div>
