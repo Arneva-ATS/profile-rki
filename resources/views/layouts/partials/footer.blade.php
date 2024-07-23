@@ -109,10 +109,9 @@
                         <ul class="menu-footer">
                             <li><a href="#">Company</a></li>
                             <li><a href="#">Careers</a></li>
-                            <li><a href="#">Press media</a></li>
-                            <li><a href="#">History</a></li>
-                            <li><a href="#">Sitemap</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="{{ asset('my-doc/Kebijakan-privasi-RKIApp.pdf') }}" target="_blank">Privacy Policy</a></li>
+                            <li><a href="{{ asset('my-doc/Syarat_dan_Ketentuan_RKIApp.pdf') }}" target="_blank">Terms & Condition</a></li>
+                            <li><a href="{{ asset('my-doc/Kebijakan_Pengembalian_Dana_RKIApp.pdf') }}" target="_blank">Refund Policy</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-30">
